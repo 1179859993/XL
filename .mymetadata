@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="XL"
+  id="myeclipse.1472714166276"
+  context-root="/XL"
+  j2ee-spec="5.0"
+  archive="XL.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
